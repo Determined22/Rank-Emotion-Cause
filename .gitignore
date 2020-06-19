@@ -1,4 +1,4 @@
-*/pytorch_model.bin
+src/bert-base-chinese/pytorch_model.bin
 */.DS_Store
 .DS_Store
 .idea/
