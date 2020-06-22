@@ -2,7 +2,7 @@
 
 This repo contains the code of the following paper:
 
-**Effective Inter-Clause Modeling for End-to-End Emotion-Cause Pair Extraction**. In *Proc. of ACL 2020: The 58th Annual Conference of the Association for Computational Linguistics*. 
+**Effective Inter-Clause Modeling for End-to-End Emotion-Cause Pair Extraction**. In *Proc. of ACL 2020: The 58th Annual Conference of the Association for Computational Linguistics*, pages 3171--3181. [[link](https://www.aclweb.org/anthology/2020.acl-main.289/)] 
 
 <br>
 
